@@ -1,6 +1,13 @@
 .menu {
   float: left;
+  clear: left;
   margin-top: 20px;
+}
+
+.message{
+  float: left;
+  margin-top: 5px;
+  padding: 10px;
 }
 
 h1 {
